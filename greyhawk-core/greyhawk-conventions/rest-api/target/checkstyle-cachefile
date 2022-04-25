@@ -1,0 +1,24 @@
+#Tue Apr 19 12:57:16 CEST 2022
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\ApiDocCommons.java=1650365833629
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\cmd\\ApiDocUpdatePartial.java=1650365833669
+configuration*?=106574AD6C657D0C8B91C5124CF7AD3F3DEF7C53
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\RestResponseMetaDto.java=1650365833705
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\sorting\\SortingDtoCriteria.java=1650365833722
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\cmd\\ApiDocUpdate.java=1650365833662
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\paged\\PagedRestResponseMetaRequestDto.java=1650365833696
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\sorting\\SortingDtoDirection.java=1650365833725
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\RestResponseMetaErrorDto.java=1650365833708
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\cmd\\ApiDocInsert.java=1650365833656
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\cmd\\ApiDocDelete.java=1650365833649
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\paged\\PagedRestResponseDto.java=1650365833680
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\ApiDocAutoConfig.java=1650365833671
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\paged\\PagedRestResponseEntity.java=1650365833686
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\ApiJacksonFormat.java=1650365833632
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\paged\\PagedRestResponseMetaPagingDto.java=1650365833693
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\RestResponseDto.java=1650365833700
+module-resource*?\:checkstyle-xpath-suppressions.xml=3AB5EB191EBD0EF6B07CBC5C56B32FCC2F8C8C14
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\apidoc\\cmd\\ApiDocCrudController.java=1650365833640
+module-resource*?\:checkstyle-suppressions.xml=75C4930DE52273CCDAFE61F93113C60092C8E701
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\paging\\PagingDto.java=1650365833716
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\sorting\\SortingDto.java=1650365833719
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-conventions\\rest-api\\src\\main\\java\\org\\greyhawk\\conventions\\restapi\\inbounds\\rest\\dtos\\meta\\paged\\PagedRestResponseMetaDto.java=1650365833690

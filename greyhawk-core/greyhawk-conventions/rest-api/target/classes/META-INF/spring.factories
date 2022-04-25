@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=ctools.conventions.restapi.inbounds.rest.ApiDocAutoConfig

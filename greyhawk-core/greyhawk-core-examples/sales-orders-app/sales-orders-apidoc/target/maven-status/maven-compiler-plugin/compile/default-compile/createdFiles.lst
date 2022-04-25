@@ -1,0 +1,12 @@
+org\greyhawk\examples\salesorders\inbounds\rest\api\apidoc\OrdersCommandControllerApiDoc.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\apidoc\SalesOrdersApiDocCommons$TagOrdersCommands.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\request\OrderRequestDto$OrderRequestDtoBuilder.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDtoList.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\apidoc\SalesOrdersApiDocCommons.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDto$1.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\configuration\SalesOrdersApiDocConfig.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDto$OrderResponseDtoBuilder.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDto.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\request\OrderRequestDto.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDtoList$1.class
+org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\request\OrderRequestDto$1.class

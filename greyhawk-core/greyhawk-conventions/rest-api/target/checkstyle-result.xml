@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\ApiDocCommons.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\ApiJacksonFormat.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\cmd\ApiDocCrudController.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\cmd\ApiDocDelete.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\cmd\ApiDocInsert.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\cmd\ApiDocUpdate.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\apidoc\cmd\ApiDocUpdatePartial.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\ApiDocAutoConfig.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\configuration\ApiDocSwaggerConfig.java">
+<error line="18" column="3" severity="warning" message="Clase &apos;ApiDocSwaggerConfig&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;docket&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ApiDocSwaggerConfig&apos; final o haciendo el método &apos;docket&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="27" column="3" severity="warning" message="Clase &apos;ApiDocSwaggerConfig&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;apiInfo&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ApiDocSwaggerConfig&apos; final o haciendo el método &apos;apiInfo&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\paged\PagedRestResponseDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\paged\PagedRestResponseEntity.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\paged\PagedRestResponseMetaDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\paged\PagedRestResponseMetaPagingDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\paged\PagedRestResponseMetaRequestDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\RestResponseDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\RestResponseMetaDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\RestResponseMetaErrorDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\meta\simple\SimpleRestResponseDto.java">
+<error line="48" column="3" severity="warning" message="Clase &apos;SimpleRestResponseDto&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;buildResponseEntity&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;SimpleRestResponseDto&apos; final o haciendo el método &apos;buildResponseEntity&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\paging\PagingDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\sorting\SortingDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\sorting\SortingDtoCriteria.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-conventions\rest-api\src\main\java\org\greyhawk\conventions\restapi\inbounds\rest\dtos\sorting\SortingDtoDirection.java">
+</file>
+</checkstyle>

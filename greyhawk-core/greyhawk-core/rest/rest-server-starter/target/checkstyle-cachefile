@@ -1,0 +1,5 @@
+#Tue Apr 19 12:57:21 CEST 2022
+configuration*?=45DCC1E4917470046724C18A132B17EF97D1131A
+module-resource*?\:checkstyle-xpath-suppressions.xml=3AB5EB191EBD0EF6B07CBC5C56B32FCC2F8C8C14
+module-resource*?\:checkstyle-suppressions.xml=75C4930DE52273CCDAFE61F93113C60092C8E701
+F\:\\ejerciciofinal\\greyhawk-core\\greyhawk-core\\rest\\rest-server-starter\\src\\main\\java\\org\\greyhawk\\core\\rest\\restserverstarter\\commons\\Dummy.java=1650365839742

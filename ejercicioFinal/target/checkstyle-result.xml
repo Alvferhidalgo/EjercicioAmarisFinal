@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\Application.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\commons\dtos\BrandDto.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\commons\dtos\PriceDto.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\commons\dtos\ProductDto.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\commons\EndpointsConstants.java">
+<error line="3" column="1" severity="warning" message="Los interfaces deberían describir tipos y por tanto tener métodos." source="com.puppycrawl.tools.checkstyle.checks.design.InterfaceIsTypeCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\domain\services\PriceService.java">
+<error line="25" column="3" severity="warning" message="Clase &apos;PriceService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findAll&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceService&apos; final o haciendo el método &apos;findAll&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="30" column="3" severity="warning" message="Clase &apos;PriceService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceService&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="35" column="3" severity="warning" message="Clase &apos;PriceService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;delete&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceService&apos; final o haciendo el método &apos;delete&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="40" column="3" severity="warning" message="Clase &apos;PriceService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;updateFromRequest&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceService&apos; final o haciendo el método &apos;updateFromRequest&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="48" column="3" severity="warning" message="Clase &apos;PriceService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findByDateProductBrand&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceService&apos; final o haciendo el método &apos;findByDateProductBrand&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\domain\services\ProductService.java">
+<error line="21" column="3" severity="warning" message="Clase &apos;ProductService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findAll&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductService&apos; final o haciendo el método &apos;findAll&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="26" column="3" severity="warning" message="Clase &apos;ProductService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductService&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="31" column="3" severity="warning" message="Clase &apos;ProductService&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;delete&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductService&apos; final o haciendo el método &apos;delete&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\domain\vos\Brand.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\domain\vos\Price.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\domain\vos\Product.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\kafka\constants\KafkaConstants.java">
+<error line="3" column="1" severity="warning" message="Los interfaces deberían describir tipos y por tanto tener métodos." source="com.puppycrawl.tools.checkstyle.checks.design.InterfaceIsTypeCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\kafka\consumer\Consumer.java">
+<error line="21" column="3" severity="warning" message="Clase &apos;Consumer&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;processProduct&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;Consumer&apos; final o haciendo el método &apos;processProduct&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\kafka\consumer\ProductRequest.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\kafka\producer\KafkaProductProducer.java">
+<error line="18" column="3" severity="warning" message="Clase &apos;KafkaProductProducer&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;sendString&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;KafkaProductProducer&apos; final o haciendo el método &apos;sendString&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\mappers\InboundsBrandMapper.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\mappers\InboundsPriceMapper.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\mappers\InboundsProductMapper.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\ports\in\PriceInputPort.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\ports\in\ProductInputPort.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\rest\controllers\PriceController.java">
+<error line="27" column="3" severity="warning" message="Clase &apos;PriceController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findAllPrices&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceController&apos; final o haciendo el método &apos;findAllPrices&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="32" column="3" severity="warning" message="Clase &apos;PriceController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceController&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="42" column="3" severity="warning" message="Clase &apos;PriceController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;update&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceController&apos; final o haciendo el método &apos;update&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="52" column="3" severity="warning" message="Clase &apos;PriceController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;deleteById&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceController&apos; final o haciendo el método &apos;deleteById&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="58" column="3" severity="warning" message="Clase &apos;PriceController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findByDateProductBrand&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceController&apos; final o haciendo el método &apos;findByDateProductBrand&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\inbounds\rest\controllers\ProductController.java">
+<error line="30" column="3" severity="warning" message="Clase &apos;ProductController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findAllPrices&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductController&apos; final o haciendo el método &apos;findAllPrices&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="35" column="3" severity="warning" message="Clase &apos;ProductController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductController&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="46" column="3" severity="warning" message="Clase &apos;ProductController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;update&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductController&apos; final o haciendo el método &apos;update&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="57" column="3" severity="warning" message="Clase &apos;ProductController&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;deleteById&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductController&apos; final o haciendo el método &apos;deleteById&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\dao\branddao\BrandDao.java">
+<error line="16" column="3" severity="warning" message="Clase &apos;BrandDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;BrandDao&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\dao\pricedao\PriceDao.java">
+<error line="21" column="3" severity="warning" message="Clase &apos;PriceDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findAll&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceDao&apos; final o haciendo el método &apos;findAll&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="26" column="3" severity="warning" message="Clase &apos;PriceDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceDao&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="32" column="3" severity="warning" message="Clase &apos;PriceDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;saveAll&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceDao&apos; final o haciendo el método &apos;saveAll&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="37" column="3" severity="warning" message="Clase &apos;PriceDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;delete&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;PriceDao&apos; final o haciendo el método &apos;delete&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\dao\productdao\ProductDao.java">
+<error line="20" column="3" severity="warning" message="Clase &apos;ProductDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;findAll&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductDao&apos; final o haciendo el método &apos;findAll&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="25" column="3" severity="warning" message="Clase &apos;ProductDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;save&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductDao&apos; final o haciendo el método &apos;save&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+<error line="31" column="3" severity="warning" message="Clase &apos;ProductDao&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;delete&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;ProductDao&apos; final o haciendo el método &apos;delete&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\entities\BrandEntity.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\entities\PriceEntity.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\entities\ProductEntity.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\mappers\OutboundsBrandMapper.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\mappers\OutboundsPriceMapper.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\mappers\OutboundsProductMapper.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\ports\PriceOutputPort.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\ports\ProductOutputPort.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\repositories\BrandRepository.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\repositories\PriceEntityRepository.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\java\com\example\outbounds\repositories\ProductEntityRepository.java">
+</file>
+<file name="F:\ejerciciofinal\ejercicioFinal\src\main\resources\application.properties">
+</file>
+</checkstyle>

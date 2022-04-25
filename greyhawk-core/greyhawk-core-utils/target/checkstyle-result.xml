@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\src\main\java\org\greyhawk\utils\commons\strings\StringUtils.java">
+<error line="9" column="3" severity="warning" message="Clase &apos;StringUtils&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;split&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;StringUtils&apos; final o haciendo el método &apos;split&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\src\main\java\org\greyhawk\utils\commons\Yeah.java">
+</file>
+</checkstyle>

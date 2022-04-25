@@ -1,0 +1,6 @@
+F:\ejerciciofinal\hexa-layers-demo\service_no_in_connector\src\main\java\org\example\hexa\outboundsconnectors\mongo\adaptors\MongoOrderRepoConnector.java
+F:\ejerciciofinal\hexa-layers-demo\service_no_in_connector\src\main\java\org\example\hexa\outboundsconnectors\mongo\adaptors\MongoOrderRepoConnectorComp.java
+F:\ejerciciofinal\hexa-layers-demo\service_no_in_connector\src\main\java\org\example\hexa\outboundsconnectors\mongo\mappers\OrderEntityMapper.java
+F:\ejerciciofinal\hexa-layers-demo\service_no_in_connector\src\main\java\org\example\hexa\domain\orders\services\OrderServiceComp.java
+F:\ejerciciofinal\hexa-layers-demo\service_no_in_connector\src\main\java\org\example\hexa\inbounds\rest\orders\OrdersCommandController.java
+F:\ejerciciofinal\hexa-layers-demo\service_no_in_connector\src\main\java\org\example\hexa\inbounds\rest\orders\mappers\OrderDtoMapper.java

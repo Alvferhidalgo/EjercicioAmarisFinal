@@ -1,0 +1,23 @@
+cmd.exe
+/X
+/C
+"C:\Users\chinc\.jdks\openjdk-17.0.2\bin\javadoc.exe @options @packages"
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\allclasses-index.html = 1650365829174
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\allpackages-index.html = 1650365829177
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\element-list = 1650365829104
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\help-doc.html = 1650365829200
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\index-all.html = 1650365829191
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\index.html = 1650365829160
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\jquery-ui.overrides.css = 1650365829247
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\member-search-index.js = 1650365829181
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\module-search-index.js = 1650365829178
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\options = 1650365828068
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\overview-summary.html = 1650365829193
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\overview-tree.html = 1650365829153
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\package-search-index.js = 1650365829179
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\packages = 1650365828068
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\script.js = 1650365829206
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\search.js = 1650365829208
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\stylesheet.css = 1650365829204
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\tag-search-index.js = 1650365829181
+F:\ejerciciofinal\greyhawk-core\greyhawk-core-utils\target\apidocs\type-search-index.js = 1650365829180

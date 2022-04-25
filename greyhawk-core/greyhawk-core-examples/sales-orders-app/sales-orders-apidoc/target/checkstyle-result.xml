@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-examples\sales-orders-app\sales-orders-apidoc\src\main\java\org\greyhawk\examples\salesorders\inbounds\rest\api\apidoc\OrdersCommandControllerApiDoc.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-examples\sales-orders-app\sales-orders-apidoc\src\main\java\org\greyhawk\examples\salesorders\inbounds\rest\api\apidoc\SalesOrdersApiDocCommons.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-examples\sales-orders-app\sales-orders-apidoc\src\main\java\org\greyhawk\examples\salesorders\inbounds\rest\api\configuration\SalesOrdersApiDocConfig.java">
+<error line="11" column="3" severity="warning" message="Clase &apos;SalesOrdersApiDocConfig&apos; se parece a diseñada para la extensión (puede ser una subclase), pero el método &apos;apiInfo&apos; no tiene javadoc que explica cómo hacerlo de forma segura. Si la clase no está diseñado para la extensión de considerar la posibilidad de la clase &apos;SalesOrdersApiDocConfig&apos; final o haciendo el método &apos;apiInfo&apos; anotación  static/final/abstract/empty, o la adición permitido para el método." source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-examples\sales-orders-app\sales-orders-apidoc\src\main\java\org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\request\OrderRequestDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-examples\sales-orders-app\sales-orders-apidoc\src\main\java\org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDto.java">
+</file>
+<file name="F:\ejerciciofinal\greyhawk-core\greyhawk-core-examples\sales-orders-app\sales-orders-apidoc\src\main\java\org\greyhawk\examples\salesorders\inbounds\rest\api\dtos\orders\response\OrderResponseDtoList.java">
+</file>
+</checkstyle>

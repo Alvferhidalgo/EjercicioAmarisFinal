@@ -1,0 +1,4 @@
+org.greyhawk.examples.salesorders.inbounds.rest.api.apidoc
+org.greyhawk.examples.salesorders.inbounds.rest.api.configuration
+org.greyhawk.examples.salesorders.inbounds.rest.api.dtos.orders.request
+org.greyhawk.examples.salesorders.inbounds.rest.api.dtos.orders.response
