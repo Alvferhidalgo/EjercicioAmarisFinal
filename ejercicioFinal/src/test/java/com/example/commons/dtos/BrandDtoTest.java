@@ -8,8 +8,8 @@ import java.util.List;
 
 class BrandDtoTest {
 
-    private final String STRING_VALUE = "value";
-    private final String STRING_VALUE_2 = "value2";
+    private final String STRING_VALUE = "foo";
+    private final String STRING_VALUE_2 = "foo2";
 
     List<PriceDto> entities = new ArrayList<>();
 
