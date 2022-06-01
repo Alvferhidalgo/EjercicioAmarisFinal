@@ -11,7 +11,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class BrandDaoTest {
 
-    BrandEntity brand = new BrandEntity("1","Zara", null);
+    BrandEntity brandEntity = new BrandEntity("1","Zara", null);
 
     @Mock
     BrandRepository repository;
@@ -22,8 +22,8 @@ class BrandDaoTest {
     @Test
     void saveTest() {
         //when
-        dao.save(brand);
+        dao.save(brandEntity);
         //then
-        Mockito.verify(repository).save(brand);
+        Mockito.verify(repository).save(brandEntity);
     }
 }
