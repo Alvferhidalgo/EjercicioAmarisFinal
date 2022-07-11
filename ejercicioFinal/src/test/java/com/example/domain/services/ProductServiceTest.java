@@ -19,11 +19,11 @@ import java.util.List;
 @SpringBootTest
 class ProductServiceTest {
 
-    LocalDateTime TEST_DATE = LocalDateTime.of(2020, 10, 10, 10, 10, 10);
-    Product product = new Product("1",null, TEST_DATE, TEST_DATE,"1",1L, TEST_DATE);
+    LocalDateTime DATE = LocalDateTime.of(2020, 10, 10, 10, 10, 10);
+    Product product = new Product("1",null, DATE, DATE,"1",1L, DATE);
     BrandDto brandDto = new BrandDto("1","Zara",null);
-    ProductDto productDto = new ProductDto("1",null, TEST_DATE, TEST_DATE,"1",1L, TEST_DATE);
-    PriceDto priceDto = new PriceDto("1", brandDto, productDto, TEST_DATE, TEST_DATE, 1, 1, 1D, "EUR");
+    ProductDto productDto = new ProductDto("1",null, DATE, DATE,"1",1L, DATE);
+    PriceDto priceDto = new PriceDto("1", brandDto, productDto, DATE, DATE, 1, 1, 1D, "EUR");
     List<ProductDto> productsDto = List.of(productDto);
 
     @Mock
